@@ -1,1 +1,0 @@
-# Technology-of-Programming2Django
